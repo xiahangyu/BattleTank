@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/hangyu/work/unreal/workspace/BattleTank/BattleTank/Source/BattleTank/BattleTank.Build.cs",
+		"/Users/hangyu/work/unreal/workspace/BattleTank/BattleTank/Source/BattleTank.Target.cs",
+		"/Users/hangyu/work/unreal/workspace/BattleTank/BattleTank/Source/BattleTankEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.1"
+}

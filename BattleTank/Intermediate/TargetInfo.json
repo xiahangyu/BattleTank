@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BattleTank",
+			"Path": "/Users/hangyu/work/unreal/workspace/BattleTank/BattleTank/Source/BattleTank.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BattleTankEditor",
+			"Path": "/Users/hangyu/work/unreal/workspace/BattleTank/BattleTank/Source/BattleTankEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
